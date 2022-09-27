@@ -1,0 +1,12 @@
+-This line is reserved-
+Sniper;Fire;454;36;2;29
+Troll;Earth;620;48;2.5;15
+Gyrycopter;Metal;492;41;2;30
+Treant Protector;Wood;700;62;1.5;38
+Trasex;Metal;473;40;2;27
+Lanaya;Water;492;53;4;29
+Ursa;Earth;587;45;5;35
+Gondar;Earth;473;45;6;40
+Luna;Metal;435;43;3;18
+Naga Siren;Water;549;56;6;32
+Dark Knight;Fire;500;66;25;23

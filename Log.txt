@@ -1,0 +1,157 @@
+-This line is reserved-
+21:51:18
+8/6/2021
+Earth
+SAD
+Ursa;Earth;241;45;5;35
+Treant Protector;Wood;700;62;1;38
+Sniper;Fire;0;36;2;29
+NPC
+Sniper;Fire;0;36;2;29
+Treant Protector;Wood;700;62;1;38
+Ursa;Earth;241;45;5;35
+0
+14:32:7
+9/6/2021
+Wood
+SAD
+Treant Protector;Wood;346.322;62;1.5;38
+Ursa;Earth;0;45;5;38.5
+Lanaya;Water;0;53;4;31.9
+NPC
+Sniper;Fire;0;36;2;26.1
+Treant Protector;Wood;316.974;62;1.5;38
+Ursa;Earth;146.9;45;5;35
+2
+14:37:13
+9/6/2021
+Wood
+SED
+Lanaya;Water;0;53;4;29
+Lanaya;Water;137.07;53;4;29
+Lanaya;Water;0;53;4;29
+NPC
+Ursa;Earth;93.0078;45;5;35
+Sniper;Fire;0;36;2;26.1
+Treant Protector;Wood;144.733;62;1.5;38
+2
+14:37:49
+9/6/2021
+Fire
+SED
+Lanaya;Water;246.064;53;4;29
+Lanaya;Water;117.085;53;4;29
+Lanaya;Water;90.644;53;4;29
+NPC
+Sniper;Fire;0;36;2;29
+Trasex;Metal;0;40;2;29.7
+Gondar;Earth;0;45;6;36
+1
+14:45:51
+9/6/2021
+Water
+JAKE
+Trasex;Metal;543.95;40;2;29.7
+Ursa;Earth;66.9883;45;5;35
+Gyrycopter;Metal;0;41;2;33
+BOND
+Trasex;Metal;543.95;40;2;29.7
+Gyrycopter;Metal;0;41;2;33
+Ursa;Earth;66.9883;45;5;35
+0
+15:22:37
+9/6/2021
+Water
+SAD
+Treant Protector;Wood;36.75;62;1.5;37.62
+Gyrycopter;Metal;69.2393;41;2;30
+Lanaya;Water;0;53;4;31.9
+NPC
+Treant Protector;Wood;0;62;1.5;34.2
+Gondar;Earth;0;45;6;40
+Troll;Earth;336.921;48;2.5;15
+1
+22:25:18
+10/6/2021
+Wood
+LASt
+Treant Protector;Wood;394.727;62;1.5;38
+Naga Siren;Water;0;56;6;35.2
+Gondar;Earth;0;45;6;44
+NPC
+Gyrycopter;Metal;0;41;2;30
+Lanaya;Water;135.006;53;4;29
+Luna;Metal;215.351;43;3;18
+2
+22:25:38
+10/6/2021
+Fire
+LASt
+Lanaya;Water;131.273;53;4;29
+Ursa;Earth;81.4962;45;5;37.8
+Naga Siren;Water;0;56;6;32
+FagE
+Gyrycopter;Metal;0;41;2;33
+Gondar;Earth;0;45;6;36
+Treant Protector;Wood;2.07764;62;1.5;41.8
+1
+7:10:13
+17/6/2021
+Fire
+JONH
+Gyrycopter;Metal;0;41;2;30
+Treant Protector;Wood;280.285;62;1.5;45.6
+Luna;Metal;0;43;3;18
+NPC
+Treant Protector;Wood;289.727;62;1.5;38
+Gondar;Earth;0;45;6;36
+Troll;Earth;357.375;48;2.5;13.5
+2
+14:29:47
+17/6/2021
+Wood
+Das
+Gyrycopter;Metal;0;41;2;30
+Treant Protector;Wood;271.213;62;1.5;41.8
+Lanaya;Water;174.639;53;4;31.9
+NPC
+Treant Protector;Wood;289.727;62;1.5;38
+Ursa;Earth;0;45;5;35
+Sniper;Fire;0;36;2;26.1
+1
+21:5:36
+17/6/2021
+Earth
+Das
+Treant Protector;Wood;0;62;1.5;41.8
+Gyrycopter;Metal;170.919;41;2;29.7
+Ursa;Earth;22.2144;45;5;35
+NPC
+Naga Siren;Water;80.7156;56;6;32
+Sniper;Fire;0;36;2;29
+Trasex;Metal;0;40;2;24.3
+1
+21:11:47
+17/6/2021
+Fire
+SAd
+Gyrycopter;Metal;0;41;2;30
+Gyrycopter;Metal;0;41;2;30
+Gyrycopter;Metal;0;41;2;30
+NPC
+Naga Siren;Water;174.837;56;6;35.2
+Sniper;Fire;25.9084;36;2;29
+Treant Protector;Wood;394.727;62;1.5;38
+2
+21:28:56
+17/6/2021
+Earth
+Sad
+Dark Knight;Fire;300.22;66;25;27.6
+Dark Knight;Fire;86.7968;66;25;27.6
+Dark Knight;Fire;380.158;66;25;27.6
+NPC
+Luna;Metal;0;43;3;17.82
+Troll;Earth;0;48;2.5;15
+Trasex;Metal;0;40;2;26.73
+1
